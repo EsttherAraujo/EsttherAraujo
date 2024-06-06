@@ -1,4 +1,4 @@
-### Boas vinda ao meu perfil 💙
+### Boas vinda ao meu perfil 💙 
 
 Meu nome é Estther Victhória Araújo Morello
 - Estou estudando Alura
@@ -6,10 +6,9 @@ Meu nome é Estther Victhória Araújo Morello
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
 
-  ### Você pode entrar em contato comigo 📬
+  ### Você pode entrar em contato comigo 📬 
     
   - estther-araujo@hotmail.com
-
 
 
   ![](https://media.tenor.com/8LjPMRe8kEsAAAAj/flork-gif.gif)
